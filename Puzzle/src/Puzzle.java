@@ -41,9 +41,9 @@ public class Puzzle {
 			if (scan.hasNextLine()) {
 				String str2 = scan.nextLine();
 				if (puzzleAns[Integer.parseInt(str2)].toLowerCase().equals(puzzleAns[ansPos].toLowerCase())){
-					System.out.println("Correct");
+					System.out.println("=======  Correct  =======");
 				}else{
-					System.out.println("Wrong!");
+					System.out.println("=======   Wrong!  =======");
 				}
 			}
 
