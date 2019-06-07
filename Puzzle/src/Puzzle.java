@@ -24,7 +24,8 @@ public class Puzzle {
 			fakeAns[1] = r.nextInt(questions.size()-1);
 			fakeAns[2] = r.nextInt(questions.size()-1);
 			String[] puzzleAns = new String[4];
-			System.out.println(questions.get(qusNum));
+			System.out.println(questions.get(qusNum).replaceAll("•","\n•"));
+			System.out.println("");
 			int fakeNum = 0;
 			for (int i = 0; i < 4 ; i++){
 				if (i == ansPos){

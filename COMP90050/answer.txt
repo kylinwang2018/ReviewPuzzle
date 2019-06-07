@@ -11,3 +11,29 @@ very effective
 Well proven
 data distribution
 dominant
+client
+different
+interfaces
+Server
+administration
+centralised database systems
+nodes
+communication network
+location
+concurrency
+recovery
+transaction
+queries
+inefficient
+very hard
+complicated
+many
+not guaranteed
+availability and consistency
+Optimisation
+standards
+Security
+source trusting
+convenient
+difficult
+RDB
