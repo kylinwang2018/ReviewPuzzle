@@ -41,9 +41,9 @@ public class Puzzle {
 			if (scan.hasNextLine()) {
 				String str2 = scan.nextLine();
 				if (puzzleAns[Integer.parseInt(str2)].toLowerCase().equals(puzzleAns[ansPos].toLowerCase())){
-					System.out.println("=======  Correct  =======");
+					System.out.println("=======  Correct  =======\n\n");
 				}else{
-					System.out.println("=======   Wrong!  =======");
+					System.out.println("=======   Wrong!  =======\n\n");
 				}
 			}
 
@@ -62,8 +62,8 @@ public class Puzzle {
 			}
 
 			// check the files
-			File questionFile = new File(".\\" + dirPath + "\\question.txt");
-			File answerFile = new File(".\\" + dirPath + "\\answer.txt");
+			File questionFile = new File("./" + dirPath + "/question.txt");
+			File answerFile = new File("./" + dirPath + "/answer.txt");
 			if (!questionFile.exists() || !answerFile.exists()) {
 				System.out.println("Question or Answer file cannot be found");
 				System.exit(-1);

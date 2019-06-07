@@ -1,0 +1,6 @@
+Database Architectures: (  ); Client-server; Distributed database systems; World Wide Web; Grid databases; P2P databases.
+Database Architectures: Centralised database systems; (  ); Distributed database systems; World Wide Web; Grid databases; P2P databases.
+Database Architectures: Centralised database systems; Client-server; (  ); World Wide Web; Grid databases; P2P databases.
+Database Architectures: Centralised database systems; Client-server; Distributed database systems; (  ); Grid databases; P2P databases.
+Database Architectures: Centralised database systems; Client-server; Distributed database systems; World Wide Web; (  ); P2P databases.
+Database Architectures: Centralised database systems; Client-server; Distributed database systems; World Wide Web; Grid databases; (  ).

@@ -1,0 +1,6 @@
+Centralised database systems
+Client-server
+Distributed database systems
+World Wide Web
+Grid databases
+P2P databases
