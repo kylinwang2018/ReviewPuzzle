@@ -4,3 +4,10 @@ Distributed database systems
 World Wide Web
 Grid databases
 P2P databases
+one location
+processors
+simple
+very effective
+Well proven
+data distribution
+dominant

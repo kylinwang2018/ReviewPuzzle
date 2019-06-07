@@ -43,7 +43,9 @@ public class Puzzle {
 				if (puzzleAns[Integer.parseInt(str2)].toLowerCase().equals(puzzleAns[ansPos].toLowerCase())){
 					System.out.println("=======  Correct  =======\n\n");
 				}else{
-					System.out.println("=======   Wrong!  =======\n\n");
+					System.out.println("=======   Wrong!  =======\nThe correct answer is:");
+					System.out.println(ansPos + ".\t"+ puzzleAns[ansPos]);
+					System.out.println("=========================\n\n");
 				}
 			}
 
